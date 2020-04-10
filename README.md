@@ -1,10 +1,12 @@
 # DesktopG00S3
-A design based on samperson's app. Look at the creation date...
-********* THIS IS AN APRIL FOOLS PRANK. THIS IS YOUR ONLY WARNING. ********* 
+A design based on samperson's app.
 
 
 
 
 
 
-Hey, I'm serious. Don't run this on your computer. This is not a joke. This is a troll program
+
+
+
+This is an April Fool's prank. Please do not run this on your personal or work computer.
