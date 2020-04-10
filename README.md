@@ -1,5 +1,5 @@
 # DesktopG00S3
-A design based on samperson's app.
+An *interesting* redesign I made of an exe based on samperson's desktop goose app.
 
 
 
